@@ -25,6 +25,12 @@
     <a href="https://gitlab.com/kallydev">
         <img alt="KallyDev's GitLab" align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gitlab.svg"/>
     </a>
+    <a href="https://leetcode.com/kallydev/">
+        <img alt="KallyDev's LeetCode" align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg"/>
+    </a>
+    <a href="mailto:kallydev@gmail.com">
+        <img alt="KallyDev's Gmail" align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg"/>
+    </a>
     <br/>
     <img align="right" width="48px" src="https://github.com/SeanPrashad/slackmoji/raw/master/emojis/shiblob/shiblob-peek.png"/>
     <img align="right" width="48px" src="https://github.com/SeanPrashad/slackmoji/raw/master/emojis/shiblob/shiblob-peek.png"/>
