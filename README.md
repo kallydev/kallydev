@@ -68,7 +68,7 @@ const kallydev = {
         },
         frontend: {
             javascript: ["React", "Angular", "Vue", "Electron"],
-            css: ["Material UI", "Vuetify", , "Angular Material", "Bootstrap"],
+            css: ["Material UI", "Vuetify", "Angular Material", "Bootstrap"],
         },
         backend: {
             framework: {
