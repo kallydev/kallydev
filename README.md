@@ -123,6 +123,12 @@ const kallydev = {
                 <span>likeyuno</span>
             </a>
         </td>
+        <td align="center" valign="middle">
+            <a href="https://github.com/c4dr01d" target="_blank">
+                <img width="96px" src="https://avatars2.githubusercontent.com/u/50952350?s=100&v=4">
+                <span>c4dr01d</span>
+            </a>
+        </td>
     </tr>
     </tbody>
 </table>
