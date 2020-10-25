@@ -8,12 +8,12 @@
 </h2>
 <p>
     <samp>
-        I am a full-stack developer, started programming in junior high school, and currently live in China. I like open
-        source, and most of the time I am active on GitHub.
+        I'm a full-stack developer, started programming in junior high school, and currently live in China. I like open
+        source, and most of the time I'm active on GitHub.
     </samp>
 </p>
 <p>
-    I am currently looking for partners and hope to cooperate with them on open source projects.
+    I'm currently looking for partners and hope to cooperate with them on open source projects.
 </p>
 <img align="right" width="48px" src="https://github.com/SeanPrashad/slackmoji/raw/master/emojis/shiblob/shiblob-peek.png"/>
 <img align="right" width="48px" src="https://github.com/SeanPrashad/slackmoji/raw/master/emojis/shiblob/shiblob-peek.png"/>
