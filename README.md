@@ -15,9 +15,6 @@
 <p>
     I'm currently looking for partners and hope to cooperate with them on open source projects.
 </p>
-<img align="right" width="48px" src="https://github.com/SeanPrashad/slackmoji/raw/master/emojis/shiblob/shiblob-peek.png"/>
-<img align="right" width="48px" src="https://github.com/SeanPrashad/slackmoji/raw/master/emojis/shiblob/shiblob-peek.png"/>
-<img align="right" width="48px" src="https://github.com/SeanPrashad/slackmoji/raw/master/emojis/shiblob/shiblob-peek.png"/>
 <p>
     <a href="https://t.me/kallydev">
         <img alt="KallyDev's Telegram" align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg"/>
@@ -28,6 +25,10 @@
     <a href="https://gitlab.com/kallydev">
         <img alt="KallyDev's GitLab" align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gitlab.svg"/>
     </a>
+    <br/>
+    <img align="right" width="48px" src="https://github.com/SeanPrashad/slackmoji/raw/master/emojis/shiblob/shiblob-peek.png"/>
+    <img align="right" width="48px" src="https://github.com/SeanPrashad/slackmoji/raw/master/emojis/shiblob/shiblob-peek.png"/>
+    <img align="right" width="48px" src="https://github.com/SeanPrashad/slackmoji/raw/master/emojis/shiblob/shiblob-peek.png"/>
 </p>
 
 <details>
@@ -124,4 +125,3 @@ const kallydev = {
     Designed with :heart: by <a href="https://github.com/kallydev" target="_blank">KallyDev</a>.
 </p>
 </details>
-
