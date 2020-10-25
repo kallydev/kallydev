@@ -32,9 +32,9 @@
         <img alt="KallyDev's Gmail" align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg"/>
     </a>
     <br/>
-    <img align="right" width="48px" src="https://github.com/SeanPrashad/slackmoji/raw/master/emojis/shiblob/shiblob-peek.png"/>
-    <img align="right" width="48px" src="https://github.com/SeanPrashad/slackmoji/raw/master/emojis/shiblob/shiblob-peek.png"/>
-    <img align="right" width="48px" src="https://github.com/SeanPrashad/slackmoji/raw/master/emojis/shiblob/shiblob-peek.png"/>
+    <img align="right" width="48px" src="https://github.com/kallydev/kallydev/raw/main/images/shiba.png"/>
+    <img align="right" width="48px" src="https://github.com/kallydev/kallydev/raw/main/images/shiba.png"/>
+    <img align="right" width="48px" src="https://github.com/kallydev/kallydev/raw/main/images/shiba.png"/>
 </p>
 
 <details>
