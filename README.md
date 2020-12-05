@@ -83,7 +83,7 @@ const kallydev = {
                 messageQueues: ["RabbitMQ"],
             },
         },
-        systems: ["Ubuntu", "Windows Server", "iOS", "Android"],
+        systems: ["macOS", "Ubuntu", "Windows Server", "iOS", "Android"],
         editors: ["JetBrains Tools", "Visual Studio Code", "Vim"],
     }
 }
