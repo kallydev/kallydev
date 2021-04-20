@@ -91,51 +91,6 @@ const kallydev = {
     }
 }
 ```
-<h3 align="center">Friends</h3>
-<p align="center">Friendship lasts forever</p>
-<table>
-    <tbody>
-    <tr>
-        <td align="center" valign="middle">
-            <a href="https://github.com/Orochi4268" target="_blank">
-                <img width="96px" src="https://avatars1.githubusercontent.com/u/18334835?s=100&v=4">
-                <span>Orochi4268</span>
-            </a>
-        </td>
-        <td align="center" valign="middle">
-            <a href="https://github.com/ShiinaOrez" target="_blank">
-                <img width="96px" src="https://avatars3.githubusercontent.com/u/31346916?s=100&v=4">
-                <span>ShiinaOrez</span>
-            </a>
-        </td>
-        <td align="center" valign="middle">
-            <a href="https://github.com/kekeimiku" target="_blank">
-                <img width="96px" src="https://avatars0.githubusercontent.com/u/36557882?s=100&v=4">
-                <span>kekeimiku</span>
-            </a>
-        </td>
-        <td align="center" valign="middle">
-            <a href="https://github.com/CloverGit" target="_blank">
-                <img width="96px" src="https://avatars0.githubusercontent.com/u/22031498?s=100&v=4">
-                <span>CloverGit</span>
-            </a>
-        </td>
-        <td align="center" valign="middle">
-            <a href="https://github.com/likeyuno" target="_blank">
-                <img width="96px" src="https://avatars2.githubusercontent.com/u/53492161?s=100&v=4">
-                <span>likeyuno</span>
-            </a>
-        </td>
-        <td align="center" valign="middle">
-            <a href="https://github.com/c4dr01d" target="_blank">
-                <img width="96px" src="https://avatars2.githubusercontent.com/u/50952350?s=100&v=4">
-                <span>c4dr01d</span>
-            </a>
-        </td>
-    </tr>
-    </tbody>
-</table>
-
 <p align="right">
     Designed with :heart: by <a href="https://github.com/kallydev" target="_blank">KallyDev</a>.
 </p>
