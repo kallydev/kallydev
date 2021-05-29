@@ -1,8 +1,4 @@
-<p>
-    <samp>
-        <strong>Do have faith in what you're doing.</strong>
-    </samp>
-</p>
+<img align="right" width="128px" src="https://github.com/kallydev/kallydev/raw/main/images/telegram_group.jpg"/>
 <h2>
     <samp>Hi there! I'm KallyDev.</samp>
 </h2>
@@ -13,7 +9,7 @@
     </samp>
 </p>
 <p>
-    I'm currently looking for partners and hope to cooperate with them on open source projects.
+    <strong>Do have faith in what you're doing.</strong>
 </p>
 <p>
     <a href="https://t.me/kallydev">
