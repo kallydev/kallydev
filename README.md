@@ -1,4 +1,6 @@
-<img align="right" width="128px" src="https://github.com/kallydev/kallydev/raw/main/images/telegram_group.jpg"/>
+<a href="https://t.me/joinchat/m9aY4pQ2HL1lMDEx" target="_blank">
+    <img align="right" width="128px" src="https://github.com/kallydev/kallydev/raw/main/images/telegram_group.jpg"/>
+</a>
 <h2>
     <samp>Hi there! I'm KallyDev.</samp>
 </h2>
