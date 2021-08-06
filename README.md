@@ -12,7 +12,6 @@
 </p>
 <p>
     <strong>Do have faith in what you're doing.</strong>
-</p>
 <p>
     <a href="https://t.me/kallydev">
         <img alt="KallyDev's Telegram" align="left" width="24px" src="https://github.com/kallydev/kallydev/raw/main/images/telegram.svg"/>
@@ -29,6 +28,7 @@
     <a href="mailto:kallydev@gmail.com">
         <img alt="KallyDev's Gmail" align="left" width="24px" src="https://github.com/kallydev/kallydev/raw/main/images/gmail.svg"/>
     </a>
+    <a href="https://gpg.pages.dev/AF86E15D73204987.asc">Get my GPG public key.</a>
     <br/>
     <img align="right" width="48px" src="https://github.com/kallydev/kallydev/raw/main/images/shiba.png"/>
     <img align="right" width="48px" src="https://github.com/kallydev/kallydev/raw/main/images/shiba.png"/>
@@ -86,6 +86,7 @@ const kallydev = {
     }
 }
 ```
+
 <p align="right">
     Designed with :heart: by <a href="https://github.com/kallydev" target="_blank">KallyDev</a>.
 </p>
