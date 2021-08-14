@@ -30,13 +30,13 @@
     </a>
     <a href="https://gpg.pages.dev/AF86E15D73204987.asc">Get my GPG public key.</a>
     <br/>
-    <a href="https://www.mozilla.org/firefox/all/#product-desktop-release">
+    <a href="https://www.mozilla.org/firefox/new/">
         <img align="right" width="48px" src="https://github.com/kallydev/kallydev/raw/main/images/firefox_developer.svg"/>
     </a>
-    <a href="https://www.mozilla.org/firefox/all/#product-desktop-nightly">
+    <a href="https://www.mozilla.org/firefox/channel/desktop/#nightly">
         <img align="right" width="48px" src="https://github.com/kallydev/kallydev/raw/main/images/firefox_nightly.svg"/>
     </a>
-    <a href="https://www.mozilla.org/firefox/all/#product-desktop-developer">
+    <a href="https://www.mozilla.org/firefox/developer/">
         <img align="right" width="48px" src="https://github.com/kallydev/kallydev/raw/main/images/firefox.svg"/>
     </a>
 </p>
