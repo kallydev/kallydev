@@ -31,8 +31,8 @@
     <a href="https://gpg.pages.dev/AF86E15D73204987.asc">Get my GPG public key.</a>
     <br/>
     <img align="right" width="48px" src="https://github.com/kallydev/kallydev/raw/main/images/firefox.svg"/>
-    <img align="right" width="48px" src="https://github.com/kallydev/kallydev/raw/main/images/firefox.svg"/>
-    <img align="right" width="48px" src="https://github.com/kallydev/kallydev/raw/main/images/firefox.svg"/>
+    <img align="right" width="48px" src="https://github.com/kallydev/kallydev/raw/main/images/firefox_nightly.svg"/>
+    <img align="right" width="48px" src="https://github.com/kallydev/kallydev/raw/main/images/firefox_developer.svg"/>
 </p>
 
 <details>
