@@ -28,7 +28,7 @@
     <a href="mailto:kallydev@gmail.com">
         <img alt="KallyDev's Gmail" align="left" width="24px" src="https://github.com/kallydev/kallydev/raw/main/images/gmail.svg"/>
     </a>
-    <a href="https://gpg.pages.dev/AF86E15D73204987.asc">GPG Public Key.</a>
+    <a href="https://gpg.pages.dev/AF86E15D73204987.asc">GPG Public Key</a>
     <br/>
     <a href="https://www.mozilla.org/firefox/developer/">
         <img align="right" width="48px" src="https://github.com/kallydev/kallydev/raw/main/images/firefox_developer.svg"/>
