@@ -6,8 +6,7 @@
 </h2>
 <p>
     <samp>
-        I'm a full-stack developer, started programming in junior high school, and currently live in China. I like open
-        source, and most of the time I'm active on GitHub.
+        I'm a full-stack developer, started programming in junior high school. I like open source, and most of the time I'm active on GitHub.
     </samp>
 </p>
 <p>
