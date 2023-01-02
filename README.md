@@ -27,7 +27,7 @@
     <a href="mailto:kallydev@gmail.com">
         <img alt="KallyDev's Gmail" align="left" width="24px" src="https://github.com/kallydev/kallydev/raw/main/images/gmail.svg"/>
     </a>
-    <a href="https://blockscan.com/address/0x000000A52a03835517E9d193B3c27626e1Bc96b1">
+    <a href="https://app.zerion.io/0x000000a52a03835517e9d193b3c27626e1bc96b1/overview?name=kallydev.eth">
         <img alt="KallyDev's Ethereum" align="left" width="24px" src="https://github.com/kallydev/kallydev/raw/main/images/ethereum.svg"/>
     </a>
     <br/>
