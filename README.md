@@ -6,7 +6,7 @@
 </h2>
 <p>
     <samp>
-        I'm a full-stack developer, started programming in junior high school. I like open source, and most of the time I'm active on GitHub. GPG Key ID <code>D43791C3F9150476</code>.
+       I'm a full-stack developer and started programming in junior high school. I love open-source, and I'm primarily active on GitHub. GPG Key ID <code>D43791C3F9150476</code>.
     </samp>
 </p>
 <p>
@@ -63,15 +63,15 @@
 ```typescript
 const kallydev = {
     pronouns: ["He", "Him"],
-    hobby: ["Coffee", "Programming", "Music", "Painting"],
+    hobby: ["Coffee", "Programming", "Music", "Painting", "Cryptocurrency"],
     languages: ["Go", "Rust", "Kotlin", "TypeScript", "Python", "Java", "Bash"],
     technologyStack: {
         mobile: {
-            android: ["Android X"],
+            android: ["Android X", "Jetpack Compose"],
         },
         frontend: {
             javascript: ["React", "Electron"],
-            css: ["TailwindCSS", "Bootstrap"],
+            css: ["TailwindCSS", "Bootstrap", "Material UI"],
         },
         backend: {
             framework: {
@@ -86,8 +86,8 @@ const kallydev = {
                 messageQueues: ["RabbitMQ"],
             },
         },
-        systems: ["macOS", "Ubuntu", "Windows Server", "iOS", "Android"],
-        editors: ["JetBrains Tools", "Visual Studio Code", "Vim"],
+        systems: ["macOS", "Ubuntu", "Arch"],
+        editors: ["JetBrains Tools", "Neovim"],
     }
 }
 ```
