@@ -18,6 +18,9 @@
     <a href="https://twitter.com/kallydev">
         <img alt="KallyDev's Twitter" align="left" width="24px" src="https://github.com/kallydev/kallydev/raw/main/images/twitter.svg"/>
     </a>
+    <a href="https://leetcode.com/KallyDev">
+        <img alt="KallyDev's LeetCode" align="left" width="24px" src="https://github.com/kallydev/kallydev/raw/main/images/leetcode.svg"/>
+    </a>
     <a href="https://gitlab.com/kallydev">
         <img alt="KallyDev's GitLab" align="left" width="24px" src="https://github.com/kallydev/kallydev/raw/main/images/gitlab.svg"/>
     </a>
