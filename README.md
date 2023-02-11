@@ -52,9 +52,10 @@
 <h3 align="center">Languages</h3>
 <p align="center">
     <img alt="Go" src="https://img.shields.io/badge/-Go-00ADD8?style=for-the-badge&logo=Go&logoColor=fff"/>
+    <img alt="Solidity" src="https://img.shields.io/badge/-Solidity-363636?style=for-the-badge&logo=Solidity&logoColor=fff"/>
     <img alt="Rust" src="https://img.shields.io/badge/-Rust-000?style=for-the-badge&logo=Rust&logoColor=fff"/>
     <img alt="Kotlin" src="https://img.shields.io/badge/-Kotlin-0095D5?style=for-the-badge&logo=Kotlin&logoColor=fff"/>
-    <img alt="Java" src="https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=Java&logoColor=fff"/>
+    <img alt="Java" src="https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=OpenJDK&logoColor=fff"/>
     <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logo=TypeScript&logoColor=fff"/>
     <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=Python&logoColor=fff"/>
     <img alt="GNU Bash" src="https://img.shields.io/badge/-GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=fff"/>
@@ -62,32 +63,37 @@
 
 ```typescript
 const kallydev = {
-    pronouns: ["He", "Him"],
-    hobby: ["Coffee", "Programming", "Music", "Painting", "Cryptocurrency"],
-    languages: ["Go", "Rust", "Kotlin", "TypeScript", "Python", "Java", "Bash"],
+    pronouns: [ "He", "Him" ],
+    hobbies: [ "Coffee", "Cryptocurrency", "Programming", "Music" ],
+    languages: [ "Go", "Solidity", "Rust", "Kotlin", "TypeScript", "Python", "Java", "Bash" ],
     technologyStack: {
         mobile: {
-            android: ["Android X", "Jetpack Compose"],
+            android: [ "Android X", "Jetpack Compose" ],
         },
         frontend: {
-            javascript: ["React", "Electron"],
-            css: ["TailwindCSS", "Bootstrap", "Material UI"],
+            javascript: [ "React", "Electron" ],
+            css: [ "TailwindCSS", "Bootstrap", "Material UI" ],
         },
         backend: {
-            framework: {
-                golang: ["Echo", "Go Kit"],
-                kotlin: ["Ktor", "Spring Boot"],
-                python: ["Flask", "FastAPI"],
+            frameworks: {
+                golang: [ "Echo", "Go Kit" ],
+                kotlin: [ "Ktor", "Spring Boot" ],
+                python: [ "Flask", "FastAPI" ],
             },
-            databases: ["PostgreSQL", "Redis", "MongoDB", "InfluxDB"],
-            devops: ["Docker", "Kubernetes", "Nginx"],
-            microservice: {
-                protocol: ["RESTful", "gRPC"],
-                messageQueues: ["RabbitMQ"],
+            databases: [ "PostgreSQL", "Redis", "MongoDB", "InfluxDB", "etcd", "ArangoDB" ],
+            devops: [ "Docker", "Kubernetes", "Nginx" ],
+            microservices: {
+                protocol: [ "RESTful", "GraphQL", "JSON-RPC 2.0" "gRPC" ],
+                messageQueues: [ "RabbitMQ" ],
+                middlewares: [ "OpenTelemetry" ]
             },
         },
-        systems: ["macOS", "Ubuntu", "Arch"],
-        editors: ["JetBrains Tools", "Neovim"],
+        web3: {
+            languages: [ "Solidity" ],
+            frameworks: [ "go-ethereum", "Ethers.js" ]
+        },
+        systems: [ "macOS", "Ubuntu", "Arch" ],
+        editors: [ "JetBrains Tools", "Neovim" ],
     }
 }
 ```
