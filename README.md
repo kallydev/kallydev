@@ -2,7 +2,7 @@
     <img align="right" width="128px" src="https://github.com/kallydev/kallydev/raw/main/images/telegram_group.jpg"/>
 </a>
 <h2>
-    <samp>Hi there! I'm KallyDev.</samp>
+    <samp>Hi there! I'm KallyDev. 🦊</samp>
 </h2>
 <p>
     <samp>
