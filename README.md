@@ -6,7 +6,7 @@
 </h2>
 <p>
     <samp>
-       I'm a full-stack developer and started programming in junior high school. I love open-source, and I'm primarily active on GitHub. GPG Key ID <code>D43791C3F9150476</code>.
+       I'm a full-stack developer and started programming in junior high school. I love open-source, and I'm primarily active on GitHub. GPG Key ID <code>1C1BA25862CC4475</code>.
     </samp>
 </p>
 <p>
