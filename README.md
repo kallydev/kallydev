@@ -30,6 +30,7 @@
         <img alt="Ethereum" src="https://img.shields.io/badge/ethereum-kallydev.eth-3C3C3D?logo=ethereum&style=flat-square"/>
     </a>
     <br/>
+    <br/>
     <a href="https://makerdao.com/">
         <img align="right" width="48px" src="https://github.com/kallydev/kallydev/raw/main/images/DAI.svg"/>
     </a>
