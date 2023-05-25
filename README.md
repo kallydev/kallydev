@@ -12,9 +12,6 @@
 <p>
     <strong>Do have faith in what you're doing.</strong>
 <p>
-    <a href="https://t.me/kallydev">
-        <img alt="Telegram" align="left" src="https://img.shields.io/badge/telegram-@kallydev-26A5E4?logo=telegram&style=flat-square"/>
-    </a>
     <a href="https://twitter.com/kallydev">
         <img alt="Twitter" align="left" src="https://img.shields.io/badge/twitter-@KallyDev-1DA1F2?logo=twitter&style=flat-square"/>
     </a>
