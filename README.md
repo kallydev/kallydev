@@ -32,13 +32,13 @@
     </a>
     <br/>
     <a href="https://www.mozilla.org/firefox/developer/">
-        <img align="right" width="48px" src="https://github.com/kallydev/kallydev/raw/main/images/firefox_developer.svg"/>
+        <img align="right" width="48px" src="https://github.com/kallydev/kallydev/raw/main/images/BTC.svg"/>
     </a>
     <a href="https://www.mozilla.org/firefox/channel/desktop/#nightly">
-        <img align="right" width="48px" src="https://github.com/kallydev/kallydev/raw/main/images/firefox_nightly.svg"/>
+        <img align="right" width="48px" src="https://github.com/kallydev/kallydev/raw/main/images/ETH.svg"/>
     </a>
     <a href="https://www.mozilla.org/firefox/new/">
-        <img align="right" width="48px" src="https://github.com/kallydev/kallydev/raw/main/images/firefox.svg"/>
+        <img align="right" width="48px" src="https://github.com/kallydev/kallydev/raw/main/images/DAI.svg"/>
     </a>
 </p>
 
