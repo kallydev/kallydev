@@ -6,8 +6,13 @@
 </h2>
 <p>
     <samp>
-       I'm a full-stack developer and started programming in junior high school. I love open-source, and I'm primarily active on GitHub. GPG Key ID <code>1C1BA25862CC4475</code>.
+        I'm a full-stack developer who started programming in junior high school. I like open-source software and cryptography and service performance optimization. At the same time, I'm also a cryptocurrency holder.
     </samp>
+    <br>
+    <br>
+    <samp>
+        In addition to software development, I have a passion for tinkering with high-performance hardware (AMD YES), such as Linux servers and workstations (<a href="https://www.reddit.com/r/homelab/">HomeLab</a>), as well as service clusters. Recently, I've been exploring virtualization technologies (<a href="https://linuxcontainers.org/">LXD</a> and <a href="https://libvirt.org/">libvirt</a>) and <a href="https://kubernetes.io/">Kubernetes</a> to expand my knowledge in this area.
+    <samp>
 </p>
 <p>
     <strong>Do have faith in what you're doing.</strong>
