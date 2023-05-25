@@ -47,6 +47,8 @@
         <b>More about me</b>
     </summary>
 
+<br>
+
 [![](https://github.com/kallydev/kallydev/blob/main/images/banner.png)](https://kallydev.com)
 
 <h3 align="center">Languages</h3>
