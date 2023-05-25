@@ -13,22 +13,16 @@
     <strong>Do have faith in what you're doing.</strong>
 <p>
     <a href="https://t.me/kallydev">
-        <img alt="KallyDev's Telegram" align="left" width="24px" src="https://github.com/kallydev/kallydev/raw/main/images/telegram.svg"/>
+        <img alt="Telegram" align="left" src="https://img.shields.io/badge/telegram-@kallydev-26A5E4?logo=telegram&style=flat-square"/>
     </a>
     <a href="https://twitter.com/kallydev">
-        <img alt="KallyDev's Twitter" align="left" width="24px" src="https://github.com/kallydev/kallydev/raw/main/images/twitter.svg"/>
-    </a>
-    <a href="https://leetcode.com/KallyDev">
-        <img alt="KallyDev's LeetCode" align="left" width="24px" src="https://github.com/kallydev/kallydev/raw/main/images/leetcode.svg"/>
+        <img alt="Twitter" align="left" src="https://img.shields.io/badge/twitter-@KallyDev-1DA1F2?logo=twitter&style=flat-square"/>
     </a>
     <a href="https://gitlab.com/kallydev">
-        <img alt="KallyDev's GitLab" align="left" width="24px" src="https://github.com/kallydev/kallydev/raw/main/images/gitlab.svg"/>
-    </a>
-    <a href="mailto:kallydev@gmail.com">
-        <img alt="KallyDev's Gmail" align="left" width="24px" src="https://github.com/kallydev/kallydev/raw/main/images/gmail.svg"/>
+        <img alt="GitLab" align="left" src="https://img.shields.io/badge/gitlab-kallydev-FC6D26?logo=gitlab&style=flat-square"/>
     </a>
     <a href="https://app.zerion.io/0x000000a52a03835517e9d193b3c27626e1bc96b1/overview?name=kallydev.eth">
-        <img alt="KallyDev's Ethereum" align="left" width="24px" src="https://github.com/kallydev/kallydev/raw/main/images/ethereum.svg"/>
+        <img alt="Ethereum" align="left" src="https://img.shields.io/badge/ethereum-kallydev.eth-3C3C3D?logo=ethereum&style=flat-square"/>
     </a>
     <br/>
     <a href="https://makerdao.com/">
