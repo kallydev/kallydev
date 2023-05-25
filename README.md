@@ -18,16 +18,16 @@
     <strong>Do have faith in what you're doing.</strong>
 <p>
     <a href="https://wakatime.com/@f4186518-2238-465c-9f29-4b1a8920f36a">
-        <img alt="Total time coded since Oct 25 2020" align="left" src="https://wakatime.com/badge/user/f4186518-2238-465c-9f29-4b1a8920f36a.svg?style=flat-square"/>
+        <img alt="Total time coded since Oct 25 2020" src="https://wakatime.com/badge/user/f4186518-2238-465c-9f29-4b1a8920f36a.svg?style=flat-square"/>
     </a>
     <a href="https://twitter.com/kallydev">
-        <img alt="Twitter" align="left" src="https://img.shields.io/badge/twitter-@KallyDev-1DA1F2?logo=twitter&style=flat-square"/>
+        <img alt="Twitter" src="https://img.shields.io/badge/twitter-@KallyDev-1DA1F2?logo=twitter&style=flat-square"/>
     </a>
     <a href="https://gitlab.com/kallydev">
-        <img alt="GitLab" align="left" src="https://img.shields.io/badge/gitlab-kallydev-FC6D26?logo=gitlab&style=flat-square"/>
+        <img alt="GitLab" src="https://img.shields.io/badge/gitlab-kallydev-FC6D26?logo=gitlab&style=flat-square"/>
     </a>
     <a href="https://app.zerion.io/0x000000a52a03835517e9d193b3c27626e1bc96b1/overview?name=kallydev.eth">
-        <img alt="Ethereum" align="left" src="https://img.shields.io/badge/ethereum-kallydev.eth-3C3C3D?logo=ethereum&style=flat-square"/>
+        <img alt="Ethereum" src="https://img.shields.io/badge/ethereum-kallydev.eth-3C3C3D?logo=ethereum&style=flat-square"/>
     </a>
     <br/>
     <a href="https://makerdao.com/">
