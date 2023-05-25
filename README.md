@@ -31,13 +31,13 @@
         <img alt="KallyDev's Ethereum" align="left" width="24px" src="https://github.com/kallydev/kallydev/raw/main/images/ethereum.svg"/>
     </a>
     <br/>
-    <a href="https://www.mozilla.org/firefox/developer/">
+    <a href="https://makerdao.com/">
         <img align="right" width="48px" src="https://github.com/kallydev/kallydev/raw/main/images/DAI.svg"/>
     </a>
-    <a href="https://www.mozilla.org/firefox/channel/desktop/#nightly">
+    <a href="https://ethereum.org/">
         <img align="right" width="48px" src="https://github.com/kallydev/kallydev/raw/main/images/ETH.svg"/>
     </a>
-    <a href="https://www.mozilla.org/firefox/new/">
+    <a href="https://bitcoin.org/">
         <img align="right" width="48px" src="https://github.com/kallydev/kallydev/raw/main/images/BTC.svg"/>
     </a>
 </p>
