@@ -15,7 +15,7 @@
     <samp>
 </p>
 <p>
-    <strong>Do have faith in what you're doing.</strong>
+    <strong>Make something people want.</strong>
 <p>
     <a href="https://wakatime.com/@f4186518-2238-465c-9f29-4b1a8920f36a">
         <img alt="Total time coded since Oct 25 2020" src="https://wakatime.com/badge/user/f4186518-2238-465c-9f29-4b1a8920f36a.svg?style=flat-square"/>
