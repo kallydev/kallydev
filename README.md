@@ -26,7 +26,7 @@
     <a href="https://gitlab.com/kallydev">
         <img alt="GitLab" src="https://img.shields.io/badge/gitlab-kallydev-FC6D26?logo=gitlab&style=flat-square"/>
     </a>
-    <a href="https://app.zerion.io/0x000000a52a03835517e9d193b3c27626e1bc96b1/overview?name=kallydev.eth">
+    <a href="https://etherscan.io/name-lookup-search?id=kallydev.eth">
         <img alt="Ethereum" src="https://img.shields.io/badge/ethereum-kallydev.eth-3C3C3D?logo=ethereum&style=flat-square"/>
     </a>
     <br/>
